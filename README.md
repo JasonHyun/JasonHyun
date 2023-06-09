@@ -1,4 +1,4 @@
-I'm Jason Hyun, an aspiring software engineer and currently a student attending Cornell University. 
+I'm Jason Hyun, an aspiring software engineer with interests in AI, deep learning, and more.
 
 <!---
 JasonHyun/JasonHyun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
